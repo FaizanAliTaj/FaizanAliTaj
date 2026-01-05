@@ -93,7 +93,13 @@ const faizan = {
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanAliTaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1)
+### Languages I Work With
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Advanced-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Intermediate-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </div>
 
