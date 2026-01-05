@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Amazon+%26+E-commerce+Specialist+%F0%9F%9B%92;DevOps+%26+Infrastructure+Engineer+%E2%98%81%EF%B8%8F;Building+Tools+That+Scale+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=FaizanAliTaj&style=for-the-badge&color=6366f1" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=faizanalitaj&style=for-the-badge&color=6366f1" alt="Profile Views"/>
 
 </div>
 
@@ -86,8 +86,8 @@ const faizan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FaizanAliTaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanAliTaj&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=faizanalitaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanalitaj&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165"/>
 
 </div>
 
@@ -138,7 +138,7 @@ const faizan = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-The.bintaj%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:The.bintaj@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FaizanAliTaj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaizanAliTaj)
+[![GitHub](https://img.shields.io/badge/GitHub-faizanalitaj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizanalitaj)
 [![Website](https://img.shields.io/badge/Website-scalevisors.com-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://scalevisors.com)
 
 </div>
