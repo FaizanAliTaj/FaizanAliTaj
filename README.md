@@ -12,6 +12,10 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
+<table>
+<tr>
+<td width="55%">
+
 ```typescript
 const faizan = {
     location: "Pakistan 🇵🇰",
@@ -21,14 +25,21 @@ const faizan = {
 };
 ```
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 - 🔭 **Currently Building:** [STR Analyzer](https://tools.scalevisors.com) - Amazon seller analytics platform
 - 🛒 **Amazon Expertise:** PPC optimization, brand analytics, market research
 - 🛠️ **Self-Hosting Enthusiast:** Running production services on personal VPS
 - 📊 **Data-Driven:** Love turning raw data into beautiful, actionable dashboards
 - 🌱 **Always Learning:** Exploring AI/ML integrations for e-commerce
 - ⚡ **Fun Fact:** I manage 15+ Docker containers on a single VPS!
+
+</td>
+<td width="45%" align="center">
+
+<img alt="Coding" width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+</td>
+</tr>
+</table>
 
 ---
 
